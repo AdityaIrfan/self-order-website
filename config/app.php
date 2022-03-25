@@ -194,4 +194,6 @@ return [
         // ...
     ])->toArray(),
 
+    'ValidateMessage' => App\Utils\Messages\ValidateMessage::class
+
 ];
